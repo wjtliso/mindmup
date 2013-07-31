@@ -1,4 +1,4 @@
-/*global beforeEach, describe, expect, it, jasmine, jQuery, spyOn, MM*/
+/*global beforeEach, describe, expect, it, jasmine, jQuery, spyOn, MMmmmmm*/
 describe('alert', function () {
 	'use strict';
 	var alert;
